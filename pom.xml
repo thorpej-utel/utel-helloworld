@@ -30,8 +30,6 @@
         <maven.compiler.release>21</maven.compiler.release>
         <exec.mainClass>uk.co.utel.test.UtelHelloworld</exec.mainClass>
     </properties>
-    
-
-
-
+    <name>utel-helloworld</name>
+    <description>Hello world project</description>
 </project>
