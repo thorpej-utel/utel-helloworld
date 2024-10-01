@@ -1,3 +1,23 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.nb-gradle-private/
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
 
 # Compiled class file
 *.class
@@ -24,9 +44,9 @@
 hs_err_pid*
 replay_pid*
 
-target/
-nbproject/
+# VSCode specific files
 .vscode/
+*.code-workspace
 
 nbactions.xml
 nb-configuration.xml
